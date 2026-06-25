@@ -1,4 +1,30 @@
-<p align="center">
+És um engenheiro de software especialista em IA.
+
+Cria uma plataforma chamada MozAI Enterprise.
+
+Requisitos:
+
+- Login com administrador e utilizadores.
+- Dashboard moderno.
+- Chat com IA semelhante ao ChatGPT.
+- Upload de PDF, Word, Excel e PowerPoint.
+- A IA deve responder apenas com base nos documentos enviados (RAG).
+- Pesquisa inteligente em todos os documentos.
+- Resumo automático de documentos.
+- Tradução para Português, Inglês e Francês.
+- Geração de relatórios em PDF.
+- Histórico de conversas.
+- Sistema de permissões por utilizador.
+- API REST.
+- Base de dados PostgreSQL.
+- Backend em Python com FastAPI.
+- Frontend em React.
+- Docker para instalação.
+- Interface responsiva.
+- Segurança com autenticação JWT.
+- Código limpo, modular e documentado.
+
+Gera toda a estrutura do projeto, incluindo backend, frontend, banco de dados, Docker, README e instruções de instalação.<p align="center">
   <img src="docs/odysseus-wordmark.png" alt="Odysseus" width="238">
 </p>
 
